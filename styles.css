@@ -3,13 +3,13 @@ body {
     color: #26313b;
 }
 
-body h1, h3 {
+body h1, h2 {
     color: #ff3c1f;
     text-shadow: 2px 2px 4px #000;
 }
 
-body h3 {
-    text-shadow: 2px 2px 8px #000;
+body h2 {
+    text-shadow: 1px 1px 2px #26313b;
 }
 
 body img {
