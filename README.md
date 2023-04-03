@@ -1,6 +1,6 @@
 # The Kitchen Alchemist
 
-Welcome to The Kitchen Alchemist, a delightful collection of recipes for you to explore and enjoy. This project is built using HTML, following the guidelines from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
+Welcome to The Kitchen Alchemist, a delightful collection of recipes for you to explore and enjoy. This project is built using HTML, following the guidelines from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes). It has been styled further using CSS as per upcoming lessons.
 
 ## Recipe Collection
 
