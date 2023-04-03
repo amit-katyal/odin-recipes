@@ -8,6 +8,10 @@ body h1, h3 {
     text-shadow: 2px 2px 4px #000;
 }
 
+body h3 {
+    text-shadow: 2px 2px 8px #000;
+}
+
 body img {
     display: block;
 }
