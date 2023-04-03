@@ -9,6 +9,10 @@ body h1 {
     display: inline;
 }
 
+body img {
+    display: block;
+}
+
 body a {
     color: #000099;
 }
