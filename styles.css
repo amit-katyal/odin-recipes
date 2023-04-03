@@ -3,7 +3,7 @@ body {
     color: #26313b;
 }
 
-body h1 {
+body h1, h3 {
     color: #ff3c1f;
     -webkit-text-stroke: 1px #26313b;
     background-color: #a6abaf;
