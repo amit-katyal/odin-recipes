@@ -6,8 +6,6 @@ body {
 body h1, h3 {
     color: #ff3c1f;
     text-shadow: 2px 2px 4px #000;
-    background-color: #a6abaf;
-    display: inline;
 }
 
 body img {
