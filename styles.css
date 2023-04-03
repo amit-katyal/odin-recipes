@@ -5,7 +5,7 @@ body {
 
 body h1, h3 {
     color: #ff3c1f;
-    -webkit-text-stroke: 1px #26313b;
+    text-shadow: 2px 2px 4px #000;
     background-color: #a6abaf;
     display: inline;
 }
