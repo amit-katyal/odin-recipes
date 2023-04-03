@@ -3,6 +3,10 @@ body {
     color: #26313b;
 }
 
+body h1 {
+    color: #ff3c1f;
+}
+
 body a {
     color: #000099;
 }
