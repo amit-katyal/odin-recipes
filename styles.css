@@ -1,0 +1,25 @@
+body {
+    background-color: #d9e0e2;
+    color: #26313b;
+}
+
+body h1, h2 {
+    color: #ff3c1f;
+    text-shadow: 2px 2px 4px #000;
+}
+
+body h2 {
+    text-shadow: 1px 1px 2px #26313b;
+}
+
+body img {
+    display: block;
+}
+
+body a {
+    color: #000099;
+}
+
+body a:hover {
+    color: #26313b;
+}
